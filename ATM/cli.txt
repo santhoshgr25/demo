@@ -1,0 +1,3 @@
+cpptestcli -input "J:\demo\c++TEST\ATM\cpptestscan.bdf" -workspace "/workspace" -config "builtin://MISRA C 2004" -report "C:\Users\Santhosh\Desktop\report" -publish
+
+cpptestcli -input "J:\demo\c++TEST\BugDetective\cpptestscan.bdf" -workspace "/workspace" -config "builtin://Flow Analysis Standard" -report "C:\Users\Santhosh\Desktop\report" -publish
